@@ -1,0 +1,14 @@
+RICHE NEWS No. 09 | Saturday, October 31, 2026
+
+STILL HAVEN'T PICKED YOUR FIT FOR TONIGHT?
+
+Last call on the Halloween edit before the night starts.
+
+Count Dracula Rugby ($50): https://www.vie-riche.com/products/count_dracula_rugby
+Reaper Oversized Hoodie ($32): https://www.vie-riche.com/products/reaper-oversized-pull-over-hoodie
+Swamp Monster Tee ($50): https://www.vie-riche.com/products/swamp_monster_t-shirt
+Sleep Is The Cousin Of Death Zip ($40): https://www.vie-riche.com/products/sleep-is-the-cousin-of-death-zip-up-hoodie
+Shop the edit: https://www.vie-riche.com/collections/new-arrivals
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

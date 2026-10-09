@@ -1,0 +1,14 @@
+RICHE NEWS No. 11 | Thursday, November 5, 2026
+
+WHAT DID YOU MISS IN OCTOBER?
+
+The October sell-out report, plus what is still standing.
+
+God Particle Jacket Set ($192): https://www.vie-riche.com/products/god-particle-jacket-set
+Atlas Beetle Hoodie ($40): https://www.vie-riche.com/products/atlas-beetle-pullover-hoodie
+Luxury Estate Jersey ($50): https://www.vie-riche.com/products/luxury_estate_jersey
+Snake Eyes Tee ($50): https://www.vie-riche.com/products/snake_eyes_tee
+Shop what's left: https://www.vie-riche.com/collections/new-arrivals
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

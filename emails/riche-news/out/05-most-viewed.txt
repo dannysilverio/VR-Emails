@@ -1,0 +1,16 @@
+RICHE NEWS No. 05 | Thursday, October 22, 2026
+
+THE MOST-VIEWED PIECES NOBODY HAS CHECKED OUT
+
+The most-viewed pieces this month. Some are down to the last sizes.
+
+Garment-Dyed Heavyweight Fleece Hoodie ($52): https://www.vie-riche.com/products/garment-dyed-heavyweight-cotton-fleece-hoodie-copy
+Unknown Washed Effect Hoodie ($52): https://www.vie-riche.com/products/unknown-washed-effect-pullover-hoodie
+Dragon Zipper Hoodie ($79.20): https://www.vie-riche.com/products/dragon_zipper_hoodie
+Digiworld Zip Hoodie ($59.20): https://www.vie-riche.com/products/digiworld_zip_hoodie
+Mixmatch Crystal Set ($198): https://www.vie-riche.com/products/mixmatch-crystal-set
+Rock & Roll Tee ($25): https://www.vie-riche.com/products/rock-roll-t-shirt
+See the hoodie rack: https://www.vie-riche.com/collections/hoodies-sweatshirts
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

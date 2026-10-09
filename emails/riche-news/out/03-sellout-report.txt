@@ -1,0 +1,16 @@
+RICHE NEWS No. 03 | Saturday, October 17, 2026
+
+HOW FAST DOES LIMITED ACTUALLY SELL OUT?
+
+We pulled the numbers. Some styles are nearly gone for good.
+
+Shop before it's gone: https://www.vie-riche.com/collections/new-arrivals
+God Particle Jacket Set ($192): https://www.vie-riche.com/products/god-particle-jacket-set
+Spider Full Zip Hoodie ($40): https://www.vie-riche.com/products/spider-oversized-full-zip-hoodie
+Snake Eyes Tee ($50): https://www.vie-riche.com/products/snake_eyes_tee
+Swamp Monster Tee ($50): https://www.vie-riche.com/products/swamp_monster_t-shirt
+Luxury Estate Jersey ($50): https://www.vie-riche.com/products/luxury_estate_jersey
+Fearless Jersey ($25): https://www.vie-riche.com/products/fearless-jersey
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

@@ -1,0 +1,11 @@
+RICHE NEWS No. 12 | Saturday, November 7, 2026
+
+DO YOU WANT IN BEFORE EVERYONE ELSE?
+
+Black Friday early access list is open. One tap to get on it.
+
+I'm in. Add me.: https://www.vie-riche.com/
+CORE Hoodie Set ($100 · Hoodie + Pant): https://www.vie-riche.com/products/core-hoodie-set
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

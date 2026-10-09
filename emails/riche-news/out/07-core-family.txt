@@ -1,0 +1,12 @@
+RICHE NEWS No. 07 | Tuesday, October 27, 2026
+
+DOES THE FAMILY THAT MATCHES STAY TOGETHER?
+
+CORE for you, CORE for the kids. Same set, sized down.
+
+CORE Hoodie Set ($100 · Hoodie + Pant): https://www.vie-riche.com/products/core-hoodie-set
+Kids CORE Hoodie Set ($75 · Sizes 8 to 18/20): https://www.vie-riche.com/products/kids-core-hoodie-set
+Match the family: https://www.vie-riche.com/products/kids-core-hoodie-set
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

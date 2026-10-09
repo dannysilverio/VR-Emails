@@ -1,0 +1,10 @@
+RICHE NEWS No. 10 | Tuesday, November 3, 2026
+
+WHICH CORE COLOR WINS NOVEMBER?
+
+10 colors. One winner. Your click is your vote.
+
+Shop CORE: https://www.vie-riche.com/products/core-hoodie-set
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

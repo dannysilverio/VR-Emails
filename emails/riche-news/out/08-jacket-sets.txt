@@ -1,0 +1,14 @@
+RICHE NEWS No. 08 | Thursday, October 29, 2026
+
+WHY IS THE $190 SET OUTSELLING THE HOODIE?
+
+The jacket set index: what Riche buyers actually spend on.
+
+God Particle Jacket Set ($192): https://www.vie-riche.com/products/god-particle-jacket-set
+Star Studded Nylon Jacket Set ($198): https://www.vie-riche.com/products/star-studded-nylon-jacket-set
+Tribal Jacket Set ($198): https://www.vie-riche.com/products/tribal-jacket-set
+Enigma Set ($200): https://www.vie-riche.com/products/enigma-set
+Shop the sets: https://www.vie-riche.com/collections/new-arrivals
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

@@ -1,0 +1,16 @@
+RICHE NEWS No. 04 | Tuesday, October 20, 2026
+
+WHAT IS SITTING IN EVERYONE'S CART?
+
+The most-carted pieces this month, and which sizes are running out.
+
+CORE Hoodie Set ($100 · Hoodie + Pant): https://www.vie-riche.com/products/core-hoodie-set
+Mixmatch Arcangel Crew Set ($198): https://www.vie-riche.com/products/mixmatch-arcangel-crew-set-1
+Archangel V Tee ($50): https://www.vie-riche.com/products/archangel_v_tee
+Reaper Oversized Hoodie ($32): https://www.vie-riche.com/products/reaper-oversized-pull-over-hoodie
+Crazy Eyes Full Zip Hoodie Set ($80): https://www.vie-riche.com/products/crazy-eyes-oversized-full-zip-hoodie-set
+Kids CORE Hoodie Set ($75 · Sizes 8 to 18/20): https://www.vie-riche.com/products/kids-core-hoodie-set
+Finish your fit: https://www.vie-riche.com/cart
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

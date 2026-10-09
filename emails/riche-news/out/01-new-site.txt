@@ -1,0 +1,12 @@
+RICHE NEWS No. 01 | Tuesday, October 13, 2026
+
+DID VIE RICHE JUST REBUILD EVERYTHING?
+
+New vie-riche.com is live. Plus, new CORE colors just leaked.
+
+Enter the new site: https://www.vie-riche.com/
+CORE Hoodie Set ($100 · Hoodie + Pant): https://www.vie-riche.com/products/core-hoodie-set
+Shop new arrivals: https://www.vie-riche.com/collections/new-arrivals
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

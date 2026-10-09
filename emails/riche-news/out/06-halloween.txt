@@ -1,0 +1,15 @@
+RICHE NEWS No. 06 | Saturday, October 24, 2026
+
+WHO DRESSES SCARIER: YOU OR YOUR COSTUME?
+
+The Riche Halloween edit. Dracula, reapers, swamp monsters.
+
+Count Dracula Rugby ($50): https://www.vie-riche.com/products/count_dracula_rugby
+Reaper Oversized Hoodie ($32): https://www.vie-riche.com/products/reaper-oversized-pull-over-hoodie
+Swamp Monster Tee ($50): https://www.vie-riche.com/products/swamp_monster_t-shirt
+Sleep Is The Cousin Of Death Zip ($40): https://www.vie-riche.com/products/sleep-is-the-cousin-of-death-zip-up-hoodie
+Chosen Spiked Skull Sweatshirt ($32): https://www.vie-riche.com/products/chosen-spiked-skull-oversized-sweatshirt
+Shop the edit: https://www.vie-riche.com/collections/new-arrivals
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}

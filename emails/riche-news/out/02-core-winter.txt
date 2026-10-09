@@ -1,0 +1,10 @@
+RICHE NEWS No. 02 | Thursday, October 15, 2026
+
+IS ONE SET ENOUGH FOR THE WHOLE WINTER?
+
+The CORE math: 10 colors, 7 sizes, one $100 set.
+
+Shop CORE: https://www.vie-riche.com/products/core-hoodie-set
+
+{{ organization.name }}, {{ organization.full_address }}
+{% unsubscribe 'Unsubscribe' %}
