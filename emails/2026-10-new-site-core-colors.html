@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>The New Vie-Riche.com Is Live | Vie Riche</title>
+<style>@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,700;0,900;1,900&family=Inter:wght@300;400;500;600&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+    }
+body {
+    background-color: #080808;
+    font-family: "Inter", Arial, sans-serif
+    }
+.wrapper {
+    max-width: 620px;
+    margin: 0 auto;
+    background-color: #080808
+    }
+.hero-block {
+    background-color: #0a0a0a;
+    background-image: linear-gradient(rgba(200, 168, 75, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(200, 168, 75, 0.04) 1px, transparent 1px);
+    background-size: 34px 34px
+    }
+.meta-bar {
+    display: table;
+    width: 100%;
+    padding: 16px 22px;
+    border-bottom: 1px solid #1c1c1c
+    }
+.meta-left {
+    display: table-cell;
+    text-align: left
+    }
+.meta-right {
+    display: table-cell;
+    text-align: right
+    }
+.meta-bar span {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 9px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    color: #3a3a3a;
+    text-transform: uppercase
+    }
+.meta-bar .dot {
+    color: #c8a84b;
+    font-size: 11px;
+    vertical-align: middle;
+    margin-left: 5px
+    }
+.badge-bar {
+    padding: 14px 22px;
+    border-bottom: 1px solid #1c1c1c;
+    text-align: center
+    }
+.badge-bar span {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    color: #c8a84b;
+    text-transform: uppercase
+    }
+.headline-wrap {
+    padding: 38px 22px 32px 22px
+    }
+.headline-wrap h1 {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 76px;
+    font-weight: 900;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 0.84;
+    letter-spacing: -1px
+    }
+.headline-wrap h1 .accent {
+    color: #c8a84b
+    }
+.headline-wrap .sub {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 13px;
+    color: #8a8a8a;
+    line-height: 1.7;
+    margin-top: 20px;
+    max-width: 440px
+    }
+.headline-wrap .sub strong {
+    color: #c8a84b;
+    font-weight: 500
+    }
+.btn {
+    display: inline-block;
+    background-color: #c8a84b;
+    color: #080808 !important;
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 34px
+    }
+.btn-ghost {
+    display: inline-block;
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #fff !important;
+    text-decoration: none;
+    border-bottom: 1px solid #c8a84b;
+    padding-bottom: 2px;
+    margin-left: 18px
+    }
+.hero-ctas {
+    margin-top: 26px
+    }
+.full-divider {
+    height: 1px;
+    background-color: #161616
+    }
+.section-label {
+    padding: 30px 22px 16px 22px
+    }
+.section-label span {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    color: #c8a84b;
+    text-transform: uppercase
+    }
+.section-label h2 {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 0.95;
+    margin-top: 6px
+    }
+.nav-wrap {
+    padding: 0 16px 26px 16px
+    }
+.nav-grid {
+    width: 100%;
+    border-collapse: collapse
+    }
+.nav-grid td {
+    width: 50%;
+    padding: 0 6px 12px 6px;
+    vertical-align: top
+    }
+.nav-tile {
+    display: block;
+    border: 1px solid #242424;
+    padding: 20px 18px;
+    text-decoration: none;
+    background-color: #0b0b0b
+    }
+.nav-num {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #c8a84b;
+    text-transform: uppercase
+    }
+.nav-name {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 1;
+    margin: 6px 0 8px 0
+    }
+.nav-go {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #8a8a8a;
+    text-transform: uppercase
+    }
+.feature-img img {
+    width: 100%;
+    max-width: 620px;
+    height: auto;
+    display: block
+    }
+.feature-info {
+    padding: 22px 22px 34px 22px
+    }
+.product-tag {
+    display: inline-block;
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    margin-bottom: 12px;
+    background-color: #c8a84b;
+    color: #080808
+    }
+.product-tag.outline {
+    background-color: transparent;
+    border: 1px solid #5a4a2a;
+    color: #c8a84b
+    }
+.product-name {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 900;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 0.96;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px
+    }
+.product-price {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 26px;
+    font-weight: 900;
+    color: #c8a84b;
+    letter-spacing: 1px;
+    margin-bottom: 12px
+    }
+.product-colors {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 11px;
+    color: #666;
+    letter-spacing: 1px;
+    line-height: 1.7;
+    margin-bottom: 20px
+    }
+.product-colors .hl {
+    color: #c8a84b
+    }
+.soon-box {
+    border: 1px dashed #5a4a2a;
+    padding: 18px;
+    margin-bottom: 22px
+    }
+.soon-box .soon-title {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 1;
+    margin-bottom: 8px
+    }
+.soon-box .soon-title em {
+    color: #c8a84b;
+    font-style: normal
+    }
+.soon-box p {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 12px;
+    color: #777;
+    line-height: 1.7
+    }
+.product-table {
+    width: 100%;
+    border-collapse: collapse
+    }
+.product-img-cell {
+    width: 240px;
+    min-width: 240px;
+    vertical-align: top;
+    padding: 0
+    }
+.product-img-cell img {
+    width: 240px;
+    height: 300px;
+    object-fit: cover;
+    display: block
+    }
+.product-info-cell {
+    vertical-align: middle;
+    padding: 26px 22px
+    }
+.product-copy {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 12px;
+    color: #777;
+    line-height: 1.7;
+    margin-bottom: 16px
+    }
+.product-link {
+    display: inline-block;
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #fff !important;
+    text-decoration: none;
+    border-bottom: 1px solid #c8a84b;
+    padding-bottom: 2px
+    }
+.final-cta {
+    padding: 44px 24px;
+    text-align: center;
+    background-color: #080808;
+    border-top: 1px solid #161616
+    }
+.final-cta h2 {
+    font-family: "Barlow Condensed", Arial, sans-serif;
+    font-size: 44px;
+    font-weight: 900;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 0.94;
+    letter-spacing: 1px;
+    margin-bottom: 16px
+    }
+.final-cta h2 em {
+    color: #c8a84b;
+    font-style: normal
+    }
+.final-cta p {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 13px;
+    color: #666;
+    line-height: 1.7;
+    max-width: 400px;
+    margin: 0 auto 26px
+    }
+.final-sub {
+    display: block;
+    margin-top: 20px
+    }
+.footer {
+    padding: 24px;
+    border-top: 1px solid #111;
+    display: table;
+    width: 100%
+    }
+.footer-left {
+    display: table-cell;
+    vertical-align: middle
+    }
+.footer-right {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle
+    }
+.footer span, .footer a {
+    font-family: "Inter", Arial, sans-serif;
+    font-size: 8px;
+    color: #2a2a2a;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-decoration: none
+    }
+.footer a {
+    color: #444;
+    text-decoration: underline
+    }
+@media (max-width: 480px) {
+    .headline-wrap h1 {
+        font-size: 56px
+        }
+    .btn {
+        padding: 14px 24px;
+        font-size: 14px
+        }
+    .btn-ghost {
+        display: inline-block;
+        margin: 18px 0 0 0
+        }
+    .section-label h2 {
+        font-size: 32px
+        }
+    .nav-name {
+        font-size: 20px
+        }
+    .product-img-cell {
+        width: 140px;
+        min-width: 140px
+        }
+    .product-img-cell img {
+        width: 140px;
+        height: 185px
+        }
+    .product-info-cell {
+        padding: 16px 14px
+        }
+    .product-name {
+        font-size: 26px
+        }
+    .final-cta h2 {
+        font-size: 32px
+        }
+    }</style></head>
+<body>
+<div style="display:none;max-height:0;overflow:hidden;">The new vie-riche.com is live. And new CORE colors are on the way.</div>
+<div class="wrapper">
+<div class="hero-block">
+<div class="meta-bar">
+<div class="meta-left"><span>VIE RICHE<span class="dot">●</span></span></div>
+<div class="meta-right"><span>NEW SITE · OCT 2026</span></div>
+</div>
+<div class="badge-bar"><span>⬥ The New Vie-Riche.com Is Live</span></div>
+<div class="headline-wrap">
+<h1>NEW SITE.<br/><span class="accent">SAME RICH.</span></h1>
+<div class="sub">We rebuilt <strong>vie-riche.com</strong> from the ground up. It has a new look and an easier way to find your sets, hoodies and new drops. Everything you already love is there. Come see it for yourself.</div>
+<div class="hero-ctas">
+<a class="btn" href="https://www.vie-riche.com" target="_blank">EXPLORE THE SITE →</a>
+<a class="btn-ghost" href="https://www.vie-riche.com/collections/new-arrivals" target="_blank">NEW ARRIVALS</a>
+</div>
+</div>
+</div>
+<div class="full-divider"></div>
+<div class="section-label"><span>01 · Find Your Way Around</span><h2>Start Here</h2></div>
+<div class="nav-wrap">
+<table cellpadding="0" cellspacing="0" class="nav-grid">
+<tr>
+<td><a class="nav-tile" href="https://www.vie-riche.com/collections/new-arrivals" target="_blank"><div class="nav-num">A</div><div class="nav-name">New Arrivals</div><div class="nav-go">SHOP →</div></a></td>
+<td><a class="nav-tile" href="https://www.vie-riche.com/products/core-hoodie-set" target="_blank"><div class="nav-num">B</div><div class="nav-name">CORE Sets</div><div class="nav-go">SHOP →</div></a></td>
+</tr>
+<tr>
+<td><a class="nav-tile" href="https://www.vie-riche.com/collections/hoodies-sweatshirts" target="_blank"><div class="nav-num">C</div><div class="nav-name">Hoodies</div><div class="nav-go">SHOP →</div></a></td>
+<td><a class="nav-tile" href="https://www.vie-riche.com/products/kids-core-hoodie-set" target="_blank"><div class="nav-num">D</div><div class="nav-name">Kids</div><div class="nav-go">SHOP →</div></a></td>
+</tr>
+</table>
+</div>
+<div class="full-divider"></div>
+<div class="section-label"><span>02 · Coming Soon</span><h2>New CORE Colors</h2></div>
+<div class="feature-img"><a href="https://www.vie-riche.com/products/core-hoodie-set" target="_blank"><img alt="Vie Riche CORE Hoodie Set" src="https://cdn.shopify.com/s/files/1/0004/3165/2915/files/BLACK_77a5bfaf-9082-4092-9a6e-71f69757f5e4.jpg?v=1787716719"/></a></div>
+<div class="feature-info">
+<span class="product-tag">Coming Soon · CORE</span>
+<div class="product-name">CORE Hoodie Set</div>
+<div class="product-price">$100 · Hoodie + Pant</div>
+<div class="soon-box">
+<div class="soon-title">New colorways. <em>Dropping soon.</em></div>
+<p>The CORE line is getting new colors. Keep an eye on your inbox, because you'll hear about them first.</p>
+</div>
+<div class="product-colors">Live now: Black · Navy · Dark Grey · Light Grey · Tone · Wine · Natural · Dust Lilac · Olive · Dust Pink<br/><span class="hl">Can't wait? All 10 current colors are in stock, XS to 3X.</span></div>
+<a class="btn" href="https://www.vie-riche.com/products/core-hoodie-set" target="_blank">SHOP CORE NOW →</a>
+</div>
+<div class="full-divider"></div>
+<div class="product" style="background-color:#0b0b0b;">
+<table cellpadding="0" cellspacing="0" class="product-table"><tr>
+<td class="product-info-cell">
+<span class="product-tag outline">Match Them</span>
+<div class="product-name">Kids CORE<br/>Hoodie Set</div>
+<div class="product-price">$75</div>
+<div class="product-copy">Same set, sized down. Kids sizes 8 to 18/20.</div>
+<a class="product-link" href="https://www.vie-riche.com/products/kids-core-hoodie-set" target="_blank">SHOP KIDS CORE →</a>
+</td>
+<td class="product-img-cell"><a href="https://www.vie-riche.com/products/kids-core-hoodie-set" target="_blank"><img alt="Vie Riche Kids CORE Hoodie Set" src="https://cdn.shopify.com/s/files/1/0004/3165/2915/files/BLACK_5779d8a2-012d-4e4c-855d-0dae4102763c.jpg?v=1787706230"/></a></td>
+</tr></table>
+</div>
+<div class="final-cta">
+<h2>NEW HOME.<br/>STILL <em>RICH.</em></h2>
+<p>Take a look around the new vie-riche.com, and stay tuned. New CORE colors are on the way.</p>
+<a class="btn" href="https://www.vie-riche.com" target="_blank">VISIT THE NEW SITE →</a>
+<span class="final-sub"><a class="product-link" href="https://www.vie-riche.com/products/core-hoodie-set" target="_blank">SHOP CORE</a></span>
+</div>
+<div class="footer">
+<div class="footer-left"><span>VIE-RICHE.COM</span></div>
+<div class="footer-right"><a href="https://www.instagram.com/viericheparis" target="_blank">Instagram</a>   {% unsubscribe 'Unsubscribe' %}</div>
+</div>
+</div>
+</body>
+</html>
